@@ -5,11 +5,11 @@
     <url>https://checkit.clontz.org</url>
     <outcomes>
         <outcome>
-            <title>Sample Outcome</title>
-            <slug>EX1</slug>
-            <path>outcomes/EX1</path>
+            <title>Computing Derivatives</title>
+            <slug>D1</slug>
+            <path>outcomes/D1</path>
             <description>
-Simplify the sum of two monomials.
+                I can compute partial derivatives, total derivatives, directional derivatives, and gradients. I can use the Chain Rule for multivariable functions to compute derivatives of composite functions.
             </description>
         </outcome>
     </outcomes>
